@@ -1,5 +1,7 @@
 # Bicycle
 
+For modern browsers and devices becouse of css grid
+
 Used tecnologies 
 
 * CSS Grid
